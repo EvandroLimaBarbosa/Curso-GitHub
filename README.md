@@ -37,3 +37,33 @@
 [Acesse meu Linkedin](https://www.linkedin.com/in/evandro-lima/)
 
 ![Linkedin Logo](https://user-images.githubusercontent.com/96010876/148048102-3e88271f-fdea-44aa-820e-d1bfdceff2ce.png)
+
+Num | Nome | Nota
+---|---|---
+1|Evandro|9,9
+2|Cauanny|10,0
+
+terminou a tabela
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript 
+
+SE LIGA NESSE CODIGO ABAIXO EM JS: 
+
+````
+let amigo = {nome: 'José', 
+sexo: 'M', 
+peso: 85.4,
+engordar(p=0){
+    console.log('Engordou')
+    this.peso += p
+},
+emagreceu(p=0){
+    console.log('Emagreceu')
+    this.peso -= p
+}}
+
+amigo.engordar(2)
+amigo.emagreceu(10)
+
+console.log(`o ${amigo.nome} pesa ${amigo.peso}Kg`)
+````
