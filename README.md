@@ -1,6 +1,6 @@
 # Olá Mundo!
- Primeiro Repositorio do curso de github
+ Primeiro Repositorio do curso de **GitHub**
 
 Aprendendo a usar a plataforma do git e github
 
-ESSA LINHA EU ADICIONEI NO SITE DO GITHUB.
+ESSA LINHA EU ADICIONEI NO SITE DO *GITHUB*.
