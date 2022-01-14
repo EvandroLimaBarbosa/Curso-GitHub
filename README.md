@@ -67,3 +67,5 @@ amigo.emagreceu(10)
 
 console.log(`o ${amigo.nome} pesa ${amigo.peso}Kg`)
 ````
+
+🖖
