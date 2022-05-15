@@ -45,7 +45,7 @@ Num | Nome | Nota
 
 terminou a tabela
 
-Para colocar os script especifico em destaque `document.getElementById()` usa '``'
+Para colocar os script especifico em destaque `document.getElementById()` usa crase '  ``  '
 
 SE LIGA NESSE CODIGO ABAIXO EM JS: 
 
