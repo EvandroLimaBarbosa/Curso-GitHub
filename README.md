@@ -45,7 +45,7 @@ Num | Nome | Nota
 
 terminou a tabela
 
-Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript 
+Para colocar os script especifico em destaque `document.getElementById()` usa '``'
 
 SE LIGA NESSE CODIGO ABAIXO EM JS: 
 
